@@ -26,8 +26,9 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/salihfurkansaglam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salihfurkansaglam/" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="40"/> </a>
 <p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" width="20" height="20"/> </a>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salihfurkansaglam&show_icons=true&locale=en" alt="salihfurkansaglam" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salihfurkansaglam&" alt="salihfurkansaglam" /></p>
 
