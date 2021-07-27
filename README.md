@@ -12,4 +12,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=salihfurkansaglam&show_icons=true&locale=en" alt="salihfurkansaglam"  width="405" height="405" /> </p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=salihfurkansaglam&" alt="salihfurkansaglam" width="405" height="405" /> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=salihfurkansaglam&label=Profile%20views&color=0e75b6&style=flat" alt="salihfurkansaglam" width="240" height="240"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=salihfurkansaglam&label=Profile%20views&color=0e75b6&style=flat" alt="salihfurkansaglam" /> </p>
