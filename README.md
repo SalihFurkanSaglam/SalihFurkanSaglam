@@ -1,5 +1,13 @@
 <h1 align="center">Hi :wave:, I'm Salih</h1>
 <h3 align="center">A passionate Data Analyst from Turkey</h3>
+
+- :seedling: I’m currently learning **data visualization tools (Matplotlib | Seaborn) and Data Analyze, Machine Learning, Deep Learning**
+
+- :dancers:I’m interested in **Data Science**
+
+- :mailbox: How to reach me **slhfrknsglm@gmail.com**
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salihfurkansaglam&label=Profile%20views&color=0e75b6&style=flat" alt="salihfurkansaglam" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salihfurkansaglam" alt="salihfurkansaglam" /></a> </p>
 
@@ -16,11 +24,6 @@
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919847.svg" alt="gitHub" height="50"/> </a>
 
-- :seedling: I’m currently learning **data visualization tools (Matplotlib | Seaborn) and Data Analyze, Machine Learning, Deep Learning**
-
-- :dancers:I’m interested in **Data Science**
-
-- :mailbox: How to reach me **slhfrknsglm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
