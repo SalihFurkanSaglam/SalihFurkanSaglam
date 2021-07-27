@@ -8,9 +8,6 @@
 - :mailbox: How to reach me **slhfrknsglm@gmail.com**
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salihfurkansaglam&label=Profile%20views&color=0e75b6&style=flat" alt="salihfurkansaglam" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salihfurkansaglam" alt="salihfurkansaglam" /></a> </p>
-
 ## :man::woman: Social
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salihfurkansaglam/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:salihfurknasaglam@gmail.com)
@@ -33,3 +30,6 @@
 <p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salihfurkansaglam&show_icons=true&locale=en" alt="salihfurkansaglam" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salihfurkansaglam&" alt="salihfurkansaglam" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salihfurkansaglam&label=Profile%20views&color=0e75b6&style=flat" alt="salihfurkansaglam" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salihfurkansaglam" alt="salihfurkansaglam" /></a> </p>
