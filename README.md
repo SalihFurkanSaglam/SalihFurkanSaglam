@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Data Analyst from Turkey</h3>
 
 - :dancers:I’m interested in **Data Science**
-- 🎯 I’m currently working on **OpenCv**
-- :seedling: I’m currently learning **data visualization tools (Matplotlib | Seaborn) and Data Analyze, Machine Learning, Deep Learning**
+- 🎯 I’m currently working on  I’m currently learning **Data Analyze,Data Visualization Tools, Machine Learning, Deep Learning and OpenCv**
 - :mailbox: How to reach me **slhfrknsglm@gmail.com**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salihfurkansaglam" alt="salihfurkansaglam" /></a> </p>
