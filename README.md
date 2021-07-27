@@ -23,15 +23,6 @@
 <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919847.svg" alt="gitHub" height="50"/> </a>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/salihfurkansaglam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salihfurkansaglam/" height="30" width="40" /></a>
-</p>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/salihfurkansaglam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salihfurkansaglam/" height="30" width="40" /></a>
-</p>
-
-
-
 
 
 <h3 align="left">Connect with me:</h3>
