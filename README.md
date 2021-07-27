@@ -1,10 +1,9 @@
 <h1 align="center">Hi :wave:, I'm Salih</h1>
 <h3 align="center">A passionate Data Analyst from Turkey</h3>
 
-- :seedling: I’m currently learning **data visualization tools (Matplotlib | Seaborn) and Data Analyze, Machine Learning, Deep Learning**
-
 - :dancers:I’m interested in **Data Science**
-
+- 🎯 I’m currently working on **OpenCv**
+- :seedling: I’m currently learning **data visualization tools (Matplotlib | Seaborn) and Data Analyze, Machine Learning, Deep Learning**
 - :mailbox: How to reach me **slhfrknsglm@gmail.com**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salihfurkansaglam" alt="salihfurkansaglam" /></a> </p>
