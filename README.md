@@ -11,6 +11,6 @@
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="45" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> </p> 
 
 
-<p> <a &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=salihfurkansaglam&show_icons=true&locale=en" alt="salihfurkansaglam" /> </a> <a <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=salihfurkansaglam&" alt="salihfurkansaglam" /> </a>  </p>
+<p> &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=salihfurkansaglam&show_icons=true&locale=en" alt="salihfurkansaglam" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=salihfurkansaglam&" alt="salihfurkansaglam" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salihfurkansaglam&label=Profile%20views&color=0e75b6&style=flat" alt="salihfurkansaglam" /> </p>
