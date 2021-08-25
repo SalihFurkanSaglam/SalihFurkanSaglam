@@ -1,5 +1,5 @@
 <h1 align="center">Hi :wave:, I'm Salih</h1> 
-<h3 align="center">A passionate Data Analyst from Turkey</h3>
+<h3 align="center">A passionate Data Analyst from Turkey</h3> 
 
 - :dancers:I’m interested in **Data Science**
 - 🎯 I’m currently learning **Data Analyze,Data Visualization Tools, Machine Learning, Deep Learning and OpenCv.**
