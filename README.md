@@ -3,7 +3,7 @@
 
 - :dancers:I’m interested in **Data Science**
 - 🎯 I’m currently learning **Data Analyze,Data Visualization Tools, Machine Learning, Deep Learning and OpenCv.**
-- :mailbox: How to reach me **slhfrknsglm44@gmail.com**
+- :mailbox: How to reach me **slhfrknsglm44@gmail.com** 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/salihfurkansaglam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salihfurkansaglam" height="30" width="40" /></a>
